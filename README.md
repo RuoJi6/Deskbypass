@@ -28,8 +28,8 @@
 | :lock:模块                       | 火绒 | 360  | windows dfender | 卡巴斯基 | 推荐指数 | 备注 |
 | -------------------------------- | ---- | ---- | --------------- | -------- | -------- | ---- |
 | RustDesk                         |  :heavy_check_mark:    |   :x:    |                 |          |          |      |
-| 向日葵安装版本                   |   :heavy_check_mark:   |  :heavy_check_mark:    |                 |          |          |      |
-| 向日葵SOS版本                    |  :heavy_check_mark:    |   :x:    |                 |          |          |      |
+| 向日葵安装版本                   |   :heavy_check_mark:   |    :x:   |                 |          |          |      |
+| 向日葵SOS版本                    |  :heavy_check_mark:    |   :heavy_check_mark:    |                 |          |          |      |
 | ToDesk个人版本便携               |  :heavy_check_mark:    |   :x:    |                 |          |          |      |
 | ToDesk个人版本已经安装[临时密码] |   :heavy_check_mark:   |    :x:   |                 |          |          |      |
 | ToDesk个人版本已经安装[永久密码] |   :heavy_check_mark:   |   :x:    |                 |          |          |      |
