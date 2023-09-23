@@ -22,7 +22,7 @@
 
 ## 🚀上手指南
 
-📢 请务必花一点时间阅读此文档，有助于你快速熟悉HackerPermKeeper
+📢 请务必花一点时间阅读此文档，有助于你快速熟悉Deskbypass
 <br/><br/>
 
 | :lock:模块                       | 火绒 | 360  | windows dfender | 卡巴斯基 | 推荐指数 | 备注 |
