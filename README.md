@@ -37,4 +37,15 @@
 | AnyDesk                          | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
 | GotoHTTP                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
 
-## :zap:项目预计在9/25上线[现在在内测bug]
+## :zap:项目预计在9/25上线[目前内测bug]
+有问题建议请提交issues<br/>
+<a href="https://github.com/RuoJi6/HackerPermKeeper/issues"><img src="https://badgen.net/github/issues/RuoJi6/HackerPermKeeper"></a>
+
+<br/>
+
+## :star2:Stargazers over time [![Stargazers over time](https://starchart.cc/RuoJi6/Deskbypass.svg)](https://starchart.cc/RuoJi6/Deskbypass)
+
+
+<a href="https://github.com/RuoJi6">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=RuoJi6"/>
+</a>
