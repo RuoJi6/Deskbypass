@@ -1,5 +1,4 @@
  # :window:	Deskbypass
- ### 桌面绕过
 <br/><br/>
   <p align="center">
     <a href="https://www.one-fox.cn/">
