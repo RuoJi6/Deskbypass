@@ -25,15 +25,17 @@
 📢 请务必花一点时间阅读此文档，有助于你快速熟悉Deskbypass
 <br/><br/>
 
-| :lock:模块                       | 火绒 | 360  | windows dfender | 卡巴斯基 | 推荐指数 | 备注 |
-| -------------------------------- | ---- | ---- | --------------- | -------- | -------- | ---- |
-| RustDesk                         |  :heavy_check_mark:    |   :x:    |                 |          |          |      |
-| 向日葵安装版本                   |   :heavy_check_mark:   |    :x:   |                 |          |          |      |
-| 向日葵SOS版本                    |  :heavy_check_mark:    |   :heavy_check_mark:    |                 |          |          |      |
-| ToDesk个人版本便携               |  :heavy_check_mark:    |   :x:    |                 |          |          |      |
-| ToDesk个人版本已经安装[临时密码] |   :heavy_check_mark:   |    :x:   |                 |          |          |      |
-| ToDesk个人版本已经安装[永久密码] |   :heavy_check_mark:   |   :x:    |                 |          |          |      |
-| ToDesk个人版本安装版静默安装     |   :heavy_check_mark:   |  :x:     |                 |          |          |      |
-| AnyDesk                          |    :heavy_check_mark:  |   :x:    |                 |          |          |      |
-| GotoHTTP                         |   :heavy_check_mark:   |  :x:     |                 |          |          |      |
+| :lock:模块                       | 火绒               | 360                | 卡巴斯基           | windows dfender    | 推荐指数 | 备注 |
+| -------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | -------- | ---- |
+| RustDesk                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
+| 向日葵安装版本                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |          |      |
+| 向日葵SOS版本                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |          |      |
+| ToDesk个人版本便携               | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
+| ToDesk个人版本已经安装[临时密码] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |          |      |
+| ToDesk个人版本已经安装[永久密码] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |          |      |
+| ToDesk个人版本安装版静默安装     | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
+| AnyDesk                          | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
+| GotoHTTP                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
+
+
 
