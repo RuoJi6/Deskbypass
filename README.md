@@ -37,5 +37,4 @@
 | AnyDesk                          | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
 | GotoHTTP                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
 
-
-
+## :zap:项目预计在9/25上线[现在在内测bug]
