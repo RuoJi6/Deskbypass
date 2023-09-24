@@ -71,17 +71,19 @@
 <br/>
 
 ## :clap:致谢
-Chixy👑
-森然
-李坦然
-闲客
-黑白之道
-3had0w
-Zhiyu
-Q16G
-zksmile
+Chixy👑<br/>
+森然<br/>
+李坦然<br/>
+闲客<br/>
+黑白之道<br/>
+3had0w<br/>
+Zhiyu<br/>
+Q16G<br/>
+zksmile<br/>
 感谢这些师傅以及公众号提供的思路，让我受益良多[以上排名不分先后]
-<b/>
+
+<br/>
+
 
 ## :star2:Stargazers over time [![Stargazers over time](https://starchart.cc/RuoJi6/Deskbypass.svg)](https://starchart.cc/RuoJi6/Deskbypass)
 
