@@ -38,15 +38,43 @@
 | AnyDesk                          | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
 | GotoHTTP                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |          |      |
 
-## :zap:项目预计在9/25上线[目前内测bug]
+<br/>
+
+## :zap:提交问题
 有问题建议请提交issues<br/>
 <a href="https://github.com/RuoJi6/HackerPermKeeper/issues"><img src="https://badgen.net/github/issues/RuoJi6/HackerPermKeeper"></a>
+<br/>
+加我微信进开发者微信群聊 
+<br/><img src="https://img.shields.io/badge/WeChat-vivo50KFCKFC-green">
+<br/>
+<br/>
+
+## :world_map:版本更新
+```
+1.0 
+ RustDesk
+ 向日葵安装版本
+ 向日葵SOS版本
+ ToDesk个人版本便携
+ ToDesk个人版本已经安装[临时密码]
+ ToDesk个人版本已经安装[永久密码]
+ ToDesk个人版本安装版静默安装
+ AnyDesk
+ GotoHTTP
+```
+
+<br/>
+
+## :beginner:开发日志
+<a href="https://flowus.cn/share/134f2136-1c04-46fb-b1c1-693975dc42ee">点击跳转wiki</a>
 
 <br/>
 
 ## :star2:Stargazers over time [![Stargazers over time](https://starchart.cc/RuoJi6/Deskbypass.svg)](https://starchart.cc/RuoJi6/Deskbypass)
 
-
 <a href="https://github.com/RuoJi6">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=RuoJi6"/>
+</a>
+<a href="https://github.com/RuoJi6/Deskbypass/">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RuoJi6&layout=compact&langs_count=8&card_width=320" />
 </a>
