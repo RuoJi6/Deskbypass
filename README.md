@@ -13,7 +13,8 @@
     <img src="https://img.shields.io/badge/WeChat-vivo50KFCKFC-black">
     <img src="https://badgen.net/github/stars/RuoJi6/Deskbypass/?icon=github&color=black">
     <img src="https://badgen.net/github/issues/RuoJi6/Deskbypass">
-    <a href="https://flowus.cn/share/3505271f-a987-4fb1-9623-efe58dcc77ec">
+    <a href="https://flowus.cn/share/134f2136-1c04-46fb-b1c1-693975dc42ee">
+     <img src="https://img.shields.io/badge/%E6%96%87%E5%BA%93-wiki-yellow">
     </a>
 </p>
 
