@@ -1,4 +1,4 @@
-![image](https://github.com/RuoJi6/Deskbypass/assets/79234113/eee38dd7-4f85-461d-b21e-058864b616fa)# :window:	Deskbypass
+# :window:	Deskbypass
 <br/><br/>
   <p align="center">
     <a href="https://www.one-fox.cn/">
