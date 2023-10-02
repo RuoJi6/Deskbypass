@@ -1,4 +1,4 @@
-# :window:	Deskbypass
+![image](https://github.com/RuoJi6/Deskbypass/assets/79234113/eee38dd7-4f85-461d-b21e-058864b616fa)# :window:	Deskbypass
 <br/><br/>
   <p align="center">
     <a href="https://www.one-fox.cn/">
@@ -27,18 +27,22 @@
 📢 请务必花一点时间阅读此文档，有助于你快速熟悉Deskbypass
 <br/><br/>
 
-| :lock:模块                       | 火绒               | 360                | 卡巴斯基           | windows dfender    | 推荐指数 | 备注 |
-| -------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | -------- | ---- |
-| RustDesk                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |    :star::star::star::star::star::star:      |      |
-| 向日葵安装版本                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |     :star::star:     |      |
-| 向日葵SOS版本                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |       :star::star::star::star::star::star:   |      |
-| ToDesk个人版本便携               | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |     :star::star::star::star:     |      |
-| ToDesk个人版本已经安装[临时密码] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :star::star::star::star:    |      |
-| ToDesk个人版本已经安装[永久密码] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |      :star::star::star::star:   |      |
-| ToDesk个人版本安装版静默安装     | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |      :star::star::star::star:    |      |
-| AnyDesk                          | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |   :star::star::star::star:       |      |
-| GotoHTTP                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: |      :star::star::star::star:    |      |
-| TeamViewer                       | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark: |      :star::star::star::star:    |      |
+| :lock:模块                       | 火绒               | 360                | 卡巴斯基           | windows dfender    | 推荐指数                             | 备注 |
+| -------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------------------------ | ---- |
+| RustDesk                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star::star: |      |
+| 向日葵安装版本                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star:                         |      |
+| 向日葵SOS版本                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star::star: |      |
+| ToDesk个人版本便携               | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
+| ToDesk个人版本已经安装[临时密码] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
+| ToDesk个人版本已经安装[永久密码] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
+| ToDesk个人版本安装版静默安装     | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
+| AnyDesk                          | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
+| GotoHTTP                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
+| TeamViewer                       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
+| 阿里云安全中心平台               | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |      |
+| 阿里云ECS云助手                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |      |
+| 360企业安全云                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |      |
+| 腾讯云自动化助手                 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |      |
 
 <br/>
 
@@ -63,11 +67,14 @@
  ToDesk个人版本安装版静默安装
  AnyDesk
  GotoHTTP
----------------------------------------------
+------------------------------------------------------
 1.1
  1、修改图片错误
  2、修改标题错误
  3、添加TeamViewer 11 12 13 14 15版本抓取密码测试
+------------------------------------------------------
+2.0
+  1、阿里云安全中心平台，阿里云ECS云助手，360企业安全云，腾讯云自动化助手
 ```
 
 <br/>
@@ -88,6 +95,7 @@ Zhiyu<br/>
 Q16G<br/>
 zksmile<br/>
 潇湘信安<br/>
+冰蚕实验室<br/>
 感谢这些师傅以及公众号提供的思路，让我受益良多[以上排名不分先后]
 
 <br/>
