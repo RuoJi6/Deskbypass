@@ -27,22 +27,28 @@
 📢 请务必花一点时间阅读此文档，有助于你快速熟悉Deskbypass
 <br/><br/>
 
-| :lock:模块                       | 火绒               | 360                | 卡巴斯基           | windows dfender    | 推荐指数                             | 备注 |
-| -------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------------------------ | ---- |
-| RustDesk                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star::star: |      |
-| 向日葵安装版本                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star:                         |      |
-| 向日葵SOS版本                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star::star: |      |
-| ToDesk个人版本便携               | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
-| ToDesk个人版本已经安装[临时密码] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
-| ToDesk个人版本已经安装[永久密码] | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
-| ToDesk个人版本安装版静默安装     | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
-| AnyDesk                          | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
-| GotoHTTP                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
-| TeamViewer                       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |      |
-| 阿里云安全中心平台               | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |      |
-| 阿里云ECS云助手                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |      |
-| 360企业安全云                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |      |
-| 腾讯云自动化助手                 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |      |
+| :lock:模块                                      | 火绒               | 360                | 卡巴斯基           | windows dfender    | 推荐指数                             | 备注                                                         |
+| ----------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------------------------ | ------------------------------------------------------------ |
+| RustDesk 1.1.9                                  | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star::star: |                                                              |
+| 向日葵安装版本[旧版本]                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star:                         |                                                              |
+| 向日葵安装版本[SunloginClient_15.1.0.58718_x64] | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star:                   | 因为需要读取内存，会被360发现                                |
+| 向日葵SOS版本SunloginClientSOS_1.2.1.58835      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star::star: |                                                              |
+| ToDesk个人版本便携ToDesk_Lite_4.7.1.5           | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |                                                              |
+| ToDesk个人版本已经安装[临时密码] ToDesk_4.7.1.5 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |                                                              |
+| ToDesk个人版本已经安装[永久密码] ToDesk_4.7.1.5 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |                                                              |
+| ToDesk个人版本安装版静默安装                    | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |                                                              |
+| AnyDesk                                         | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |                                                              |
+| GotoHTTP                                        | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             |                                                              |
+| TeamViewer                                      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             | 11.0.259193 [yes]<br/> 12.0.259192 [yes]<br/>13.2.36224 [yes]<br/>14.7.48671 [yes]<br/>15.45.4 [NO] |
+| 阿里云安全中心平台                              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |                                                              |
+| 阿里云ECS云助手                                 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |                                                              |
+| 360企业安全云                                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |                                                              |
+| 腾讯云自动化助手                                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star::star:       |                                                              |
+| RayLink便携版本 RayLinkLite_v6.1.6.8            | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             | 因为需要读取内存，会被360发现                                |
+| RayLink安装版本 RayLink_v6.2.6.9                | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             | 因为需要读取内存，会被360发现                                |
+| 爱思安装版本i4Remote_v1.0.32_Setup_x64_700001   | :heavy_check_mark: | :x:                | :heavy_check_mark: | :heavy_check_mark: | :star::star::star::star:             | 因为需要读取内存，会被360发现                                |
+
+
 
 <br/>
 
@@ -75,6 +81,9 @@
 ------------------------------------------------------
 2.0
   1、阿里云安全中心平台，阿里云ECS云助手，360企业安全云，腾讯云自动化助手
+------------------------------------------------------
+3.0
+  1、添加爱思，RayLink，向日葵最新版本读取密码
 ```
 
 <br/>
@@ -96,6 +105,7 @@ Q16G<br/>
 zksmile<br/>
 潇湘信安<br/>
 冰蚕实验室<br/>
+NGC660安全实验室<br/>
 感谢这些师傅以及公众号提供的思路，让我受益良多[以上排名不分先后]
 
 <br/>
